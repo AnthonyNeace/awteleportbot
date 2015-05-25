@@ -1,0 +1,14 @@
+{
+  "name": "AWTeleportBot",
+  "version": "0.0.0",
+  "description": "Reddit bot to convert ActiveWorlds coordinates to web links.",
+  "main": "app.js",
+  "author": {
+    "name": "Anthony Neace",
+    "email": "hyperanthony@gmail.com"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "snoocore": "*"
+  }
+}
